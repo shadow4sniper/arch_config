@@ -4,6 +4,7 @@
 #软件包
 #sudo pacman -S neofetch
 #sudo pacman -S numlockx
+#sudo pacman -S picom
 #sudo pacman -S xf86-vedio-vesa
 #sudo pacman -S ranger
 #sudo pacman -S libgtk2
