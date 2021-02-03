@@ -19,6 +19,8 @@
 #安装谷歌开源字体及表情
 #sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
 #sudo pacman -S ueberzug
+#安装tryone144/compton时用到的
+#sudo pacman -S asciidoc
 
 
 32位库
