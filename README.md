@@ -15,24 +15,11 @@
 #识别NTFS格式的硬盘
 #sudo pacman -S ntfs-3g 
 #安装几个开源中文字体
-#sudo pacman -S adobe-source-han-serif-cn-fonts wqy-zenhei    
+#sudo pacman -S adobe-source-han-serif-cn-fonts wqy-zenhei wqy-microhei   
 #安装谷歌开源字体及表情
 #sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
 #sudo pacman -S ueberzug
 
-#sudo pacman -S fcitx5-git
-#sudo pacman -S fcitx5-chewing
-#sudo pacman -S fcitx5-chinese-addons-git #官方中文输入引擎
-#sudo pacman -S fcitx5-pinyin-moegirl #萌娘百科词库 二刺猿必备(ArchLinuxCn)
-#sudo pacman -S fcitx5-pinyin-zhwiki
-#sudo pacman -S fcitx5-config-qt-git
-#sudo pacman -S fcitx5-gtk-git
-#sudo pacman -S fcitx5-qt4-git
-#sudo pacman -S fcitx5-qt5-git
-#sudo pacman -S fcitx5-configtool-git
-#sudo pacman -S fcitx5-material-color #主题
-
-#sudo pacman -S fcitx5-im #基础包组
 
 解决办法：sudo vim /etc/pacman.conf
 
